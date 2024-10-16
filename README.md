@@ -20,7 +20,19 @@
   copy this codebase into the desired run location, then call npm i
 
   ## Usage
-  Upon initialization users are prompted to create a vehicle or select an existing one. When users select create a vehicle they choose a type, being a car, truck, or motorbike, then they are able to fil out various aspects of their specified vehicle. After filling out and submitting the necessary information, the vehicle will be available for viewing in the select vehivle section. When viewing a vehicle, users are able to perform various actions on it, such as starting, accelerating, reversing, or other vehicle specific actions on the chosen vehivle. While viewing a vehicle, select exit to close the application.
+  Upon initialization users are prompted to create a vehicle or select an existing one.
+  
+  ![Screenshot 2024-10-15 231952](https://github.com/user-attachments/assets/7ce47159-194e-4cb6-aaf4-19da39131d0d)
+
+  When users select create a vehicle they choose a type, being a car, truck, or motorbike, then they are able to fil out various aspects of their specified vehicle. 
+  
+  ![Screenshot 2024-10-15 232200](https://github.com/user-attachments/assets/b51219c4-7288-48ae-b939-f1a1dab9bd2a)
+
+  After filling out and submitting the necessary information, the vehicle will be available for viewing in the select vehivle section. When viewing a vehicle, users are able to perform various actions on it, such as starting, accelerating, reversing, or other vehicle specific actions on the chosen vehivle. While viewing a vehicle, select exit to close the application.
+  
+![Screenshot 2024-10-15 232307](https://github.com/user-attachments/assets/028c66a4-02eb-488f-9765-406fb4aabfe4)
+
+Watch how to do it here => https://drive.google.com/file/d/1X4uEeHp10ozg0DPDXE_WGL8_-sEfYuGB/view?usp=sharing
 
   ## Credits
   Base code was prvided by the University of Minnesota Coding Bootcamp.
